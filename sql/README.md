@@ -1,0 +1,1 @@
+This project consists of seven SQL scripts that demonstrate various SQL skills, including data querying, aggregation, joining, and data manipulation. Each script focuses on a different dataset and tackles a unique data analysis problem. The goal of these scripts is to showcase the versatility of SQL techniques and their applicability across a wide range of domains.
