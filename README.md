@@ -12,7 +12,9 @@ Welcome to my data science portfolio! This repository showcases various data sci
 6. **Clustering**: Performing customer segmentation using K-means clustering on the Mall Customer Segmentation dataset.
 7. **Deep Learning**: Building and training a convolutional neural network (CNN) for image classification on the CIFAR-10 dataset.
 
-![Data Science Skills](your-image-link-here)
+Data Science Skills
+(https://user-images.githubusercontent.com/107844512/232503461-deab8af1-6e60-4e6b-ac46-820772c1f85b.png)
+
 
 ## Notebooks
 
