@@ -1,0 +1,1 @@
+In this notebook, we train and evaluate various regression models, including linear regression, ridge regression, and polynomial regression, using the scikit-learn library. The goal is to predict a continuous target variable based on the input features.
