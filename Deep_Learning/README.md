@@ -1,0 +1,1 @@
+In this notebook, we build a deep learning model using TensorFlow and Keras to classify images. We train a convolutional neural network (CNN) on the Fashion MNIST dataset and evaluate its performance using accuracy and loss metrics.
