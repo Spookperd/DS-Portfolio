@@ -1,0 +1,1 @@
+This notebook demonstrates how to perform exploratory data analysis and create insightful visualizations using the pandas and matplotlib libraries. It focuses on understanding the relationships between variables and identifying patterns and trends in the data.
