@@ -1,0 +1,1 @@
+This notebook explores different classification models, such as logistic regression, k-Nearest Neighbors, and random forests, using scikit-learn. The goal is to classify instances into one of several predefined categories based on the input features.
